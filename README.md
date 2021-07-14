@@ -13,7 +13,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=101010)
 
 
-https://img.shields.io/endpoint?logo=C%2B%2B
-
 
 
