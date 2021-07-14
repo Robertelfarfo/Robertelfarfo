@@ -7,7 +7,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=101010)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)
-![C++](https://img.shields.io/badge/C2-#00599C?style=for-the-badge&logo=C2&logoColor=white&labelColor=101010)
+![C++](https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=C++&logoColor=white&labelColor=101010)
 ![CPP](https://img.shields.io/endpoint?logo=C%2B%2B)
 
 <img alt="Custom badge" src="https://img.shields.io/endpoint?logo=C%2B%2B">
