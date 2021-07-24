@@ -14,7 +14,7 @@ I finished a thesis in the middle of a pandemic and I noticed the importance and
 
 
 ## Programming languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://github.com/Robertelfarfo/Python)
+[![Python](https://img.shields.io/badge/Pytho-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://github.com/Robertelfarfo/Python)
 [![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=101010)](https://github.com/Robertelfarfo/html5-css-javascript)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](https://github.com/Robertelfarfo/html-with-css)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
