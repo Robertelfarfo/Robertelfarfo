@@ -22,6 +22,8 @@ I finished a thesis in the middle of a pandemic and I noticed the importance and
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=101010)
 
+## Other skills
+![AmazonAWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white&labelColor=101010)
 
 ## Databases
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white&labelColor=101010)
