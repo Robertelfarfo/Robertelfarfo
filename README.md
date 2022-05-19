@@ -9,7 +9,7 @@ In 2015 I started my studies in mechatronics and during my second semester I lea
 
 On my university way I developed various electromechanic projets (my old teachers would sais "mechatronics projects").Programming languages were a very important tools for achieve the projects; the microcontrollers are coding in C and C++; most often my teachers required me to implement GUIs, for show measurements from sensors, controll robotic arms, graph measuremtns or turn on/turn off the project. Java was very usefull. 
 
-I finished a thesis in the middle of a pandemic and I noticed the importance and potential of coding so I learned Python and how to design Databases. I started my professional career as a Freelance and I have experience developing applications on Python.
+I finished a thesis in the middle of a pandemic and I noticed the importance and potential of coding so I learned Python and how to design Databases. With this knowledge I got my first job by developing a desktop application for help the sales department from an enterprise called SIASA. I have not stopped to learn since the first application I developed, I finished courses on front end technologies then I had the opportunity to start a new job in Weldmation (august  2021) where I was in charge of fix bugs on websites and develop javascript code for maintain sharepoint websites. 
 
 
 
