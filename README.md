@@ -27,6 +27,7 @@ In december 2021 I started a job in TCS, as developer and I continue learning.
 
 ## Other skills
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white&labelColor=101010)
+![Terraform](https://img.shields.io/badge/Terraform%-844FBA?style=for-the-badge&logo=terraform&logoColor=white&labelColor=101010)
 
 ## Databases
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white&labelColor=101010)
